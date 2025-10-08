@@ -1,0 +1,3 @@
+[submodule "arm-4c-24gb/rybbit"]
+	path = arm-4c-24gb/rybbit
+	url = https://github.com/twangodev/rybbit
